@@ -67,6 +67,10 @@
   <string name="device_a610_codename" translatable="false">a610</string>
   <string name="device_a610_maintainer" translatable="false"></string>
 
+  <string name="device_X01AD" translatable="false">Zenfone Max M2</string>
+  <string name="device_X01AD_codename" translatable="false">X01AD</string>
+  <string name="device_X01AD_maintainer" translatable="false">Assunzain</string>
+
   <string name="device_nextbit_ether" translatable="false">Nextbit Robin</string>
   <string name="device_nextbit_ether_codename" translatable="false">Ether</string>
   <string name="device_nextbit_ether_maintainer" translatable="false"> </string>
