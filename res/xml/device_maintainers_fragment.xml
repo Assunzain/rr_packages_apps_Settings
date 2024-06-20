@@ -1656,6 +1656,12 @@
             app:codename="@string/device_zenfone3_codename"
             app:maintainer="@string/device_zenfone3_maintainer"
             app:type="phone" />
+	 <com.android.settings.rr.Preferences.DevicePreference
+            android:id="@+id/device_X01AD"
+            android:title="@string/device_X01AD"
+            app:codename="@string/device_X01AD_codename"
+            app:maintainer="@string/device_X01AD_maintainer"
+            app:type="phone" />
 
     </PreferenceCategory>
 
